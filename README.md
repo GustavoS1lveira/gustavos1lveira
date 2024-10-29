@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2022<br>📚 I'm currently learning: NodeJS, JavaScript, MySQL <br>🎯 Goals: Work outside Brazil doing what I love, which is programming! <br>🎲 Fun fact: I love football!</p>
+<p align="left">✨ Creating bugs since: 2022<br>📚 I'm currently learning: NodeJS, JavaScript, MySQL <br>🎯 Goals: Work outside Brazil doing what I love, which is programming! <br>
 
 ###
 
